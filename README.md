@@ -13,3 +13,19 @@
 - SIREN: Shaping Representations for Detecting Out-of-Distribution Objects  **(NeurIPS'22)**[[paper](https://openreview.net/pdf?id=8E8tgnYlmN)] [[code](https://github.com/deeplearning-wisc/siren)]
 - Out-of-Distribution Detection with Semantic Mismatch under Masking  **(ECCV'22)**  [[paper](https://arxiv.org/abs/2208.00446)] [[code](https://github.com/cure-lab/MOODCat)]
 - DICE: Leveraging Sparsification for Out-of-Distribution Detection **(ECCV'22)** [[paper](https://arxiv.org/abs/2111.09805)] [[code](https://github.com/deeplearning-wisc/dice)]
+
+## 2021
+
+- Semantically Coherent Out-of-Distribution Detection **(ICCV'21)** [[paper](https://arxiv.org/abs/2108.11941)] [[code](https://github.com/jingkang50/ICCV21_SCOOD)]
+
+## 2020
+
+- Detecting Out-of-Distribution Examples with In-distribution Examples and Gram Matrices **(ICML'20)** [[paper](http://proceedings.mlr.press/v119/sastry20a.html)] [[code](https://github.com/VectorInstitute/gram-ood-detection)]
+
+## 2019
+
+- Deep anomaly detection with outlier exposure **(ICLR'19)** [[paper](https://arxiv.org/abs/1812.04606)] [[code](https://github.com/hendrycks/outlier-exposure)]
+
+## 2018
+
+- ODIN: Out-of-Distribution Detector for Neural Networks **(ICLR'18)** [[paper](https://arxiv.org/abs/1706.02690)] [[code](https://github.com/facebookresearch/odin)]
